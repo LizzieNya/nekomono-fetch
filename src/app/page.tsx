@@ -17,7 +17,7 @@ export default function Home() {
           <div className="flex flex-1 items-center justify-end space-x-2">
             <p className="text-sm text-muted-foreground hidden md:block">
               Maintained by{' '}
-              <a href="https://github.io/lizzienya" target="_blank" rel="noopener noreferrer" className="font-medium text-primary underline-offset-4 hover:underline">
+              <a href="https://github.com/lizzienya" target="_blank" rel="noopener noreferrer" className="font-medium text-primary underline-offset-4 hover:underline">
                 LizzieNya
               </a>
               {' for '}
