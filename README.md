@@ -3,7 +3,7 @@
 
 # Nekomono Fetch
 
-Nekomono Fetch is an unofficial web interface for interacting with the [Kemono.su API](https://kemono.su/documentation/api). It provides a user-friendly way to fetch posts from creators, look up specific posts, manage a local list of favorite creators, and perform account-level actions like importing favorites from your Kemono account.
+Nekomono Fetch is an unofficial web interface for interacting with the [Kemono.su](https://kemono.su/)  [API](https://kemono.su/documentation/api). It provides a user-friendly way to fetch posts from creators, look up specific posts, manage a local list of favorite creators, and perform account-level actions like importing favorites from your Kemono account.
 
 This project is built with Next.js, TypeScript, ShadCN UI, and Tailwind CSS.
 
