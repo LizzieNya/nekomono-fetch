@@ -34,4 +34,4 @@ This project is open-source and available under the MIT License. See the `LICENS
 
 ## Credits
 
-This project is maintained by [LizzieNya](https://github.com/lizzienya) for [nekoclub.cloud](https://g.dev/nekoclub).
+This project is maintained by [LizzieNya](https://github.com/lizzienya)
